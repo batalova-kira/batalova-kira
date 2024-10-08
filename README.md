@@ -1,5 +1,5 @@
 # 💫 Hello! I'm Kira!
- I'm an aspiring front-end developer 👋 <br><br>I'm diving into the world of web development with HTML, CSS, JavaScript, React, and TypeScript. Excited about learning, growing, and building awesome projects! 🚀🌟
+ I'm an junior front-end developer 👋 <br><br>I'm diving into the world of web development with HTML, CSS, JavaScript, React, and TypeScript. Excited about learning, growing, and building awesome projects! 🚀🌟
 
 
 ## 🌐 Socials:
@@ -15,4 +15,15 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+### ✍️ Random Dev Quote
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🚀 Lastest projects
+
+#### PetLove
+🐶 A user-friendly platform designed to help users search for and adopt pets. With an intuitive interface, users can easily browse through various categories of animals, filter their search by species, gender, and location, and connect with local shelters and foster homes.<br>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-007bff?style=flat&logo=github&logoColor=white)](https://batalova-kira.github.io/petlove/)
+
+#### LensCraft
+📷 LensCraft is a photography portfolio showcasing stunning visuals and creative storytelling through the lens. Explore a diverse range of projects that capture moments, emotions, and the beauty of the world.<br>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-007bff?style=flat&logo=github&logoColor=white)](https://batalova-kira.github.io/LensCraft/)
